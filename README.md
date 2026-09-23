@@ -1,4 +1,4 @@
-# Simple Icon Resizer
+# 02d | Image Resizer
 
 A lightweight Python utility designed to quickly resize a single source PNG image into the essential icon dimensions (`16x16`, `48x48`, and `128x128`) needed for browser extensions. It uses high-quality resampling to ensure your icons stay crisp and clear, outperforming many bulky online tools.
 
