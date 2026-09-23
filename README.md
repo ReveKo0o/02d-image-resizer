@@ -32,17 +32,28 @@ Run the script: python3 icon_converter.py
 When prompted, type the exact file name of your source image (including the extension, like logo.png) and press Enter.
 The script will instantly process your image and output icon16.png, icon48.png, and icon128.png right into your project folder.
 your-project-folder/
+
 │
+
 ├── icon_converter.py
+
 ├── logo.png  <-- Your source image
+
 (After running the script)
+
 your-project-folder/
 │
+
 ├── icon_converter.py
+
 ├── logo.png
+
 ├── icon16.png
+
 ├── icon48.png
+
 ├── icon128.png
+
 
 ### Example as an image:
 <img width="878" height="538" alt="image" src="https://github.com/user-attachments/assets/3864907c-1f5f-4fb3-b927-109a82acc532" />
